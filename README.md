@@ -1,10 +1,8 @@
-# Scriptable 自用小组件
+# Scriptable Widgets
 
-### 锁屏用的农历和天气小组件
+[LockscreenWidget](./src/LockscreenWidget.js)
 
 ![锁屏截图](./resources/info/c7265691-eec1-4b28-858f-bfeca83f0d86.jpeg)
-
-[LockscreenWidget](./LockscreenWidget.js)
 
 - Forked from [LockscreenWidget](https://github.com/dingdangnao/Scriptable/)
 - 使用 [calendar.js](https://github.com/jjonline/calendar.js) 获取农历信息
